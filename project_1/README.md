@@ -32,6 +32,7 @@ https://drive.google.com/file/d/1CLrlrtf01D0RaizMdAhJiBe-JJ1Bcj-K/view?usp=shari
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
+Все картинки с графиками в папке /img
 
 ### Этапы работы над проектом  
 1. Исследование структуры данных
@@ -45,6 +46,7 @@ https://drive.google.com/file/d/1CLrlrtf01D0RaizMdAhJiBe-JJ1Bcj-K/view?usp=shari
 
 ### Результаты:  
 Применил полученные знания для обработки данных
+
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
